@@ -1,0 +1,9 @@
+experiments/
+runs/*
+*.pt
+train_*.log
+data/
+*.pyc
+*.log
+*.err
+*.xml

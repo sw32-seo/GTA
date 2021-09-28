@@ -1,0 +1,6 @@
+six
+tqdm==4.43.0
+torch>=1.4
+torchtext==0.4.0
+future
+configargparse
