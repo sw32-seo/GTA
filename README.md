@@ -2,6 +2,7 @@
 
 This code is the official implementation of GTA: Graph Truncated Attention for Retrosynthesis paper for AAAI2021
 
+Paper: https://ojs.aaai.org/index.php/AAAI/article/view/16131
 
 Data can be found: https://drive.google.com/drive/folders/1Q2pZgfUwIricTL6c_I66HHW5ULOnLB1p?usp=sharing
 
