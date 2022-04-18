@@ -25,6 +25,7 @@ To model Best model performance,
 
 ```bash
 mkdir experiments
+mkdir data
 ```
 
 then please download below folder into experiments/:
